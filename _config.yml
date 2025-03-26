@@ -3,3 +3,4 @@ title: Irena Stolic
 #description: text below the image
 #show_downloads:true
 theme: jekyll-theme-minimal
+gem "github-pages", group: :jekyll_plugins
