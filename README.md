@@ -1,6 +1,6 @@
 # Irena
 
-# Engineer
+# Electrical Engineer
 
 ### Education 
 Physics
