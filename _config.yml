@@ -5,7 +5,3 @@ title: Irena Stolic
 theme: jekyll-theme-minimal
 gem "github-pages", group: :jekyll_plugins
 
-#background
-<div style="background-color: #fde2e4; padding: 10px;">
-  This is a light pink background with readable text.
-</div>
