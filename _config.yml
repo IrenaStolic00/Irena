@@ -1,9 +1,9 @@
 title: Irena Stolic
-#logo: /assets/cvPhoto2.png
-#description: Pre-doctoral Researcher in Physics at Optics Institute "Daza de Valdés" | CSIC
+logo: /assets/cvPhoto2.png
+description: Pre-doctoral Researcher in Physics at Optics Institute "Daza de Valdés" | CSIC
 #show_downloads: false
-#theme: jekyll-theme-minima
-theme: remote_theme: jekyll/minima@d4d779a
+theme: jekyll-theme-minimal
+
 
 
 
