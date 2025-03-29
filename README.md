@@ -4,7 +4,9 @@ Technical Skills :
 
 ## Education 
 PhD in Physics | Complutense University of Madrid (2024 - present)
+<p></p>
 M.S. in Photonics	| Polytechnic University of Catalonia  (2024)	 			       
+<p></p>
 B.S. in Electrical and Computer Engineering | University of Belgrade (2023)
 
   
