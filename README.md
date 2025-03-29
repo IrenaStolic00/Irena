@@ -19,13 +19,8 @@ Engineer @ dasad
 
 <details>
 
-  <summary>
-  
-  ## Projects 
-    
-    </summary>
-  
-  ## Projects 
+  <summary> ## Projects </summary>
+
   This is the content inside the collapsible section.
   
   You can add more text, links, or even images here.
