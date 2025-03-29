@@ -19,7 +19,7 @@ Engineer @ dasad
 
 <details>
 
-  <summary>## Projects</summary>
+  <summary><strong style="font-size: 18px;">## Projects</strong></summary>
 
   This is the content inside the collapsible section.
   
