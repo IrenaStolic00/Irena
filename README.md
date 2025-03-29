@@ -26,7 +26,7 @@ Engineer @ dasad
   This is the content inside the collapsible section.
   
   You can add more text, links, or even images here.
-  
+<p>&nbsp;</p>
 </details>
 
 ## Projects 2
