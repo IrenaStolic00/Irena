@@ -1,4 +1,4 @@
-<div style="background-color: #f8c8d7; padding: 20px; border-radius: 10px;">
+<div style="background-color: #f8c8d7>
 
 
 # Irena
