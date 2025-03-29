@@ -1,3 +1,5 @@
+<div style="margin-right: 50px;">
+
 # Electrical Engineer
 Technical Skills :
 
@@ -18,5 +20,6 @@ Engineer @ dasad
 ## Projects 
 -first
 
+</div>
 
 
