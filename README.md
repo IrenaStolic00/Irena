@@ -20,6 +20,7 @@ Engineer @ dasad
 <details>
 
   <summary><strong style="font-size: 21px;">Projects</strong>
+    <strong style="font-size: 10px;">  </strong>
     <p>&nbsp;</p>
   </summary>
 
