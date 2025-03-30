@@ -85,6 +85,7 @@ _International Festival of Innovation, Knowledge and Creativity, WIPO_ <br>
   <summary><strong style="font-size: 21px;"> 📖 Publications </strong>
     <strong style="font-size: 10px;">  </strong>
     <p>&nbsp;</p>
+    
   </summary>
 
 - TMF: Control of the propagation direction of Bound States in the continuum (BICs) in liquid crystal waveguides
@@ -102,6 +103,7 @@ _2024-07-23_
 
 
 <p>&nbsp;</p>
+
 </details>
 
 
