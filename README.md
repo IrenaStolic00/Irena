@@ -36,6 +36,7 @@ I came up with an idea for a robotics project "Robot that makes friendship brace
 ![Image1](/assets/collage2.jpg)
 
 ### 🏆 Awards
+
 - Innovation patent granted (2018 – 2024)  <br>
 _The Intellectual Property Office of the Republic of Serbia_
 - Gold medal on Tesla Fest 2019 <br>
