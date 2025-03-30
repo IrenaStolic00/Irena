@@ -16,7 +16,8 @@ B.S. in Electrical and Computer Engineering | University of Belgrade (2023)
 ## 👩🏻‍🔬 My PhD journey
 
 **Pre-doctoral Researcher  @ Optics Institute "Daza de Valdés" | CSIC  (_December 2024 - Present_)**
-- Optics Institute "Daza de Valdés" | CSIC 
+- Optics Institute "Daza de Valdés" | CSIC
+  I started my PhD research journey in December of 2024. The first two months I spent at Optics Institute "Daza de Valdés" | CSIC where I received training in 
 - Malaga
 - Momentum
 
@@ -25,12 +26,13 @@ B.S. in Electrical and Computer Engineering | University of Belgrade (2023)
 
 
 **Master's student intern @ ICFO (_Feb 2024 - Jul 2024_)**
-- I worked on my Master’s thesis project “Control of the propagation direction of Bound States in the continuum (BICs) in liquid crystal waveguides”.
+I worked on my Master’s thesis project “Control of the propagation direction of Bound States in the continuum (BICs) in liquid crystal waveguides”.
 
 **Co-founder & Embedded Automation Engineer @ Haptic Synaptic (_Oct 2021 - Oct 2023_)**
-- I came up with an idea for a robotics project that would inspire girls to get interested in technology. I made a prototype, co-founded a start-up, and received initial funding to build an educational robotics kit.
-<img src="/assets/Untitled design.png" alt="Resized Image" width="300" />
-![Image1](/assets/Untitled design.png)
+I came up with an idea for a robotics project that would inspire girls to get interested in technology. I made a prototype, co-founded a start-up, and received initial funding to build an educational robotics kit.
+
+
+![Image1](/assets/Untitled design.png=666x766)
 
 ### 🏆 Awards
 -first
