@@ -19,6 +19,8 @@ B.S. in Electrical and Computer Engineering | University of Belgrade (2023)
 
 **Pre-doctoral Researcher  @ Optics Institute "Daza de Valdés" (CSIC)  (_December 2024 - Present_)**
 **[founded by the Momentum program](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://momentum.csic.es/wp-content/uploads/2024/08/AGO_CATALOGO_OPORTUNIDADES_MOMENTUM_ESP_web.pdf)**
+<br>
+
 - Optics Institute "Daza de Valdés" (CSIC)
 In December of 2024, I started my PhD research journey on the topic _"Sensores fotónicos integrados en chip potenciados mediante inteligencia artificial y metamateriales nanoestructurados"_. The first two months I received training in "Introduction to Nano-Structured Devices in Waveguides" and spent time learning about the fundamentals of Integrated Photonics.<br>
 
@@ -69,6 +71,18 @@ _International Festival of Innovation, Knowledge and Creativity, WIPO_
 - I challenged my knowledge and skills by working on projects in Altium Designer and C. 
 
 
+<details>
+
+  <summary><strong style="font-size: 21px;"> 🎇 Projects</strong>
+    <strong style="font-size: 10px;">  </strong>
+    <p>&nbsp;</p>
+  </summary>
+
+  This is the content inside the collapsible section.
+  
+  You can add more text, links, or even images here.
+<p>&nbsp;</p>
+</details>
 
 
 
