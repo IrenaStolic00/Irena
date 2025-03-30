@@ -14,17 +14,20 @@ B.S. in Electrical and Computer Engineering | University of Belgrade (2023)
 
 
 ## 👩🏻‍🔬 My PhD journey
-Optics Institute "Daza de Valdés" | CSIC 
-Malaga
-Momentum
-  
-## 💻 Work Experience
 
-#- Optics Institute "Daza de Valdés" | CSIC 			
 
-Engineer @ dasad
-- now
-- project
+
+## 💻Work Experience
+**Pre-doctoral Researcher  @ Optics Institute "Daza de Valdés" | CSIC  (_December 2024 - Present_)**
+- Optics Institute "Daza de Valdés" | CSIC 
+- Malaga
+- Momentum
+
+**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
+- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
+- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+
+
 
 
 <details>
@@ -72,7 +75,7 @@ Engineer @ dasad
 ## Technical Skills
 
 | Languages    | Matlab, Python             
-| Software    | Lumerical, FEXEN, Labview, Matlab, Arduino, Altium Designer                  
+| Software     | Lumerical, FEXEN, Labview, Matlab, Arduino, Altium Designer                  
 | Environments | Office                  
                
 
