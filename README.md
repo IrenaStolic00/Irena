@@ -2,7 +2,9 @@
 
 
 # About me 
-Electrical Engineer by training and, scientist by nature. I love coding! 💻🚀
+Electrical Engineer by education, Scientist at heart. I am a curious and communicative individual, driven to acquire further theoretical and practical knowledge in the field of Integrated Photonics. <br>
+
+P.S. I love coding! 💻🚀
 
 
 
