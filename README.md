@@ -45,7 +45,7 @@ Engineer @ dasad
 -first
 
 ## 📖 Publications
-- TMF: Control of the propagation direction of Bound States in the continuum (BICs) in liquid crystal waveguides
+- TMF: Control of the propagation direction of Bound States in the continuum (BICs) in liquid crystal waveguides <br>
   URI: [http://hdl.handle.net/2117/423579](URIhttp://hdl.handle.net/2117/423579)
 
 ## 💫 Research Interests
