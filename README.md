@@ -23,16 +23,16 @@ B.S. in Electrical and Computer Engineering | University of Belgrade (2023)
 - Malaga
 - Momentum
 
-**Master's student intern @ ICFO (_February 2024 - Jul 2024_)**
+**Master's student intern @ ICFO (_Feb 2024 - Jul 2024_)**
 - I worked on my Master’s thesis project “Control of the propagation direction of Bound States in the continuum (BICs) in liquid crystal waveguides”.
 
-**Co-founder & Embedded Automation Engineer @ Haptic Synaptic (_October 2021 - October 2023_)**
+**Co-founder & Embedded Automation Engineer @ Haptic Synaptic (_Oct 2021 - Oct 2023_)**
 - I came up with an idea for a robotics project that would inspire girls to get interested in technology. I made a prototype, co-founded a start-up, and received initial funding to build an educational robotics kit.
 
-**Embedded Automation Engineer Intern @ Easy Aerial (_August 2022 - September 2022_)**
+**Embedded Automation Engineer Intern @ Easy Aerial (_Aug 2022 - Sept 2022_)**
 - I developed an automated system for testing new electronic components used in drones.
 
-**Hardware Design Intern @ MikroElektronika (_July 2021 - September 2021_)**
+**Hardware Design Intern @ MikroElektronika (_Jul 2021 - Sept 2021_)**
 - I challenged my knowledge and skills by working on projects in Altium Designer and C. 
 
 
@@ -101,5 +101,4 @@ Horse riding, chess
 ## Contact
 ✉️  email: irena.stolic@csic.es <br>
 🔗 LinkedIn: [Irena Stolic](https://www.linkedin.com/in/irena-stolic-248010180/)
-
 
