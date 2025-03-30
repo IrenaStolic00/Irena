@@ -72,7 +72,8 @@ B.S. in Electrical and Computer Engineering | University of Belgrade (2023)
 *2024-07-23* 
 
 <br>
-  URI: [http://hdl.handle.net/2117/423579](URIhttp://hdl.handle.net/2117/423579)
+ URI:
+ - [http://hdl.handle.net/2117/423579](http://hdl.handle.net/2117/423579)
 
 <p>&nbsp;</p>
 </details>
