@@ -81,7 +81,7 @@ _International Festival of Innovation, Knowledge and Creativity, WIPO_ <br>
     <p>&nbsp;</p>
   </summary>
 
-- TMF: Control of the propagation direction of Bound States in the continuum (BICs) in liquid crystal waveguides <be>
+- TMF: Control of the propagation direction of Bound States in the continuum (BICs) in liquid crystal waveguides <br>
 
 *Stolic, Irena; Artigas García, David; Baral, Marlin; Universidad Politécnica de Cataluña. Departamento de Teoría de Señales y Comunicaciones*
 
