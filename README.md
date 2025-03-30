@@ -33,7 +33,7 @@ I worked on my Master’s thesis project “Control of the propagation direction
 I came up with an idea for a robotics project that would inspire girls to get interested in technology. I made a prototype, co-founded a start-up, and received initial funding to build an educational robotics kit.
 
 
-![Image1](/assets/Untitled design.png)
+![Image1](/assets/collage2.jpg)
 
 ### 🏆 Awards
 -first
