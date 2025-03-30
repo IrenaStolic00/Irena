@@ -10,6 +10,9 @@ B.S. in Electrical and Computer Engineering | University of Belgrade (2023)
 
 
 ## My PhD journey
+Optics Institute "Daza de Valdés" | CSIC 
+Malaga
+Momentum
   
 ## Work Experience
 
@@ -36,6 +39,8 @@ Engineer @ dasad
 ## Awards
 -first
 <img src="/assets/cvPhoto2.png" alt="Sticker Description" width="100" height="100">
+
+## Publications
 
 ## Interests
 
