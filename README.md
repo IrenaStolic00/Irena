@@ -60,7 +60,7 @@ Engineer @ dasad
 Horse riding, chess
 
 ## Contact
-✉ email: irena.stolic@csic.es <br>
+✉️  email: irena.stolic@csic.es <br>
 🔗 LinkedIn: [Irena Stolic](https://www.linkedin.com/in/irena-stolic-248010180/)
 
 
