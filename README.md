@@ -40,6 +40,8 @@ I came up with an idea for a robotics project "Robot that makes friendship brace
 _The Intellectual Property Office of the Republic of Serbia_
 - Gold medal on Tesla Fest 2019 <br>
 _International Festival of Innovation, Knowledge and Creativity, WIPO_
+- WSA European Young Innovators Award 2021 <br>
+  _World Summit Award (Graz, Austria)_
 
 
 **Embedded Automation Engineer Intern @ Easy Aerial (_Aug 2022 - Sept 2022_)**
