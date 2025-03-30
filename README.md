@@ -46,8 +46,9 @@ Engineer @ dasad
 
 ## 📖 Publications
 - TMF: Control of the propagation direction of Bound States in the continuum (BICs) in liquid crystal waveguides <br>
-*Stolic, Irena; Artigas García, David; Baral, Marlin; Universidad Politécnica de Cataluña. Departamento de Teoría de Señales y Comunicaciones
-2024-07-23*
+*Stolic, Irena; Artigas García, David; Baral, Marlin; Universidad Politécnica de Cataluña. Departamento de Teoría de Señales y Comunicaciones*
+<br>
+*2024-07-23* <br>
   URI: [http://hdl.handle.net/2117/423579](URIhttp://hdl.handle.net/2117/423579)
 
 ## 💫 Research Interests
