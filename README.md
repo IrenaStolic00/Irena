@@ -17,8 +17,9 @@ B.S. in Electrical and Computer Engineering | University of Belgrade (2023)
 
 **Pre-doctoral Researcher  @ Optics Institute "Daza de Valdés" | CSIC  (_December 2024 - Present_)**
 - Optics Institute "Daza de Valdés" | CSIC
-  I started my PhD research journey in December of 2024. The first two months I spent at Optics Institute "Daza de Valdés" | CSIC where I received training in 
+In December of 2024, I started my PhD research journey in. The first two months I spent at Optics Institute "Daza de Valdés" | CSIC where I received training in "Introduction to Nano-Structured Devices in Waveguides" and spent time learning about the fundamentals of Integrated Photonics.
 - Malaga
+In February of 2025, I started my two month secondmant at the 
 - Momentum
 
 
@@ -32,7 +33,7 @@ I worked on my Master’s thesis project “Control of the propagation direction
 I came up with an idea for a robotics project that would inspire girls to get interested in technology. I made a prototype, co-founded a start-up, and received initial funding to build an educational robotics kit.
 
 
-![Image1](/assets/Untitled design.png=666x766)
+![Image1](/assets/Untitled design.png)
 
 ### 🏆 Awards
 -first
