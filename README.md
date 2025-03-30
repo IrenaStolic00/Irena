@@ -62,8 +62,10 @@ _International Festival of Innovation, Knowledge and Creativity, WIPO_ <br>
 ### 🚀 Grants
   - The Mini Grants program 2021 <br>
     _Serbian Innovation Fund (as GirlBot)_ <br>
+    
   - Part of The Startech program 2021 <br>
   _The Government of the Republic of Serbia_ <br>
+  
   - MTS start-up grant & Google accelerator program 2021 <br>
   _Startit & Telekom Serbia_ <br>
 
