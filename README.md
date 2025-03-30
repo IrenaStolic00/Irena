@@ -81,9 +81,13 @@ _International Festival of Innovation, Knowledge and Creativity, WIPO_ <br>
     <p>&nbsp;</p>
   </summary>
 
-- TMF: Control of the propagation direction of Bound States in the continuum (BICs) in liquid crystal waveguides <br>
+- TMF: Control of the propagation direction of Bound States in the continuum (BICs) in liquid crystal waveguides
 
-_Stolic, Irena; Artigas García, David; Baral, Marlin; Universidad Politécnica de Cataluña. Departamento de Teoría de Señales y Comunicaciones_ <br>
+<br>
+
+_Stolic, Irena; Artigas García, David; Baral, Marlin; Universidad Politécnica de Cataluña. Departamento de Teoría de Señales y Comunicaciones_ 
+
+<br>
 
 _2024-07-23_
 <br>
@@ -93,13 +97,6 @@ _2024-07-23_
 
 <p>&nbsp;</p>
 </details>
-
-
-
-
-
-
-
 
 
 
@@ -117,9 +114,6 @@ _2024-07-23_
 - German (B1) - [onSET-Zertifikat](https://drive.google.com/file/d/1KtxoslggTkv_7oPD7mA_VbGN5T44iTmi/view)
 - Hungarian (A2)
 
-## Hobbies
-
-Horse riding, chess
 
 ## Contact
 ✉️  email: irena.stolic@csic.es <br>
