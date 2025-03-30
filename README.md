@@ -29,6 +29,8 @@ B.S. in Electrical and Computer Engineering | University of Belgrade (2023)
 **Co-founder & Embedded Automation Engineer @ Haptic Synaptic (_Oct 2021 - Oct 2023_)**
 - I came up with an idea for a robotics project that would inspire girls to get interested in technology. I made a prototype, co-founded a start-up, and received initial funding to build an educational robotics kit.
 
+![Image1](IMG-20231025-WA0203.jpg)
+
 ### 🏆 Awards
 -first
 
