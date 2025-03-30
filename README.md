@@ -4,7 +4,7 @@
 # About me 
 Electrical Engineer by education, Scientist at heart. I am a curious and communicative individual, driven to acquire further theoretical and practical knowledge in the field of Integrated Photonics. <br>
 
-P.S. I love coding! 💻🚀
+P.S. I love coding! 💻
 
 
 
@@ -59,7 +59,7 @@ _International Festival of Innovation, Knowledge and Creativity, WIPO_ <br>
   - Virtually Maker Faire 2020 
   - Maker Faire Vienna 2019
 
-### 💫 Grants
+### 🚀 Grants
   - The Mini Grants program 2021 <br>
     _Serbian Innovation Fund (as GirlBot)_ <br>
   - Part of The Startech program 2021 <br>
