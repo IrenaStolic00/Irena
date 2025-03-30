@@ -44,7 +44,7 @@ In February of 2025, I started my two-month research secondment at the Universit
 I worked on my Master’s thesis project “Control of the propagation direction of Bound States in the continuum (BICs) in liquid crystal waveguides”.
 
 **Co-founder & Embedded Automation Engineer @ Haptic Synaptic (_Oct 2021 - Oct 2023_)** <br>
-I came up with an idea for a robotics project "Robot that makes friendship bracelets" that would inspire girls to get interested in technology. I made a prototype, co-founded a start-up, and received initial funding to build an educational robotics kit.
+I came up with an idea for a robotics project "Robot that makes friendship bracelets" that would inspire girls to get interested in technology (2018). I made a prototype, co-founded a start-up (2021), and received initial funding to build an educational robotics kit.
 
 
 ![Image1](/assets/collage2.jpg)
