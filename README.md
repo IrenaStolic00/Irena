@@ -2,14 +2,14 @@
 # Electrical Engineer
 Technical Skills :
 
-## Education 
+## 🎓Education 
 PhD in Physics | Complutense University of Madrid (2024 - present)
 <br>
 M.S. in Photonics	| Polytechnic University of Catalonia  (2024)	 			       
 B.S. in Electrical and Computer Engineering | University of Belgrade (2023)
 
 
-## My PhD journey
+## 👩🏻‍🔬 My PhD journey
 Optics Institute "Daza de Valdés" | CSIC 
 Malaga
 Momentum
