@@ -83,7 +83,9 @@ _International Festival of Innovation, Knowledge and Creativity, WIPO_ <br>
 <details>
 
   <summary><strong style="font-size: 21px;"> 📖 Publications </strong>
+    
     <strong style="font-size: 10px;">  </strong>
+    
     <p>&nbsp;</p>
     
   </summary>
@@ -97,6 +99,7 @@ _Stolic, Irena; Artigas García, David; Baral, Marlin; Universidad Politécnica 
 <br>
 
 _2024-07-23_
+
 <br>
 
  URI:[http://hdl.handle.net/2117/423579](http://hdl.handle.net/2117/423579)
