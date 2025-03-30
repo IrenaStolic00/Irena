@@ -29,7 +29,7 @@ B.S. in Electrical and Computer Engineering | University of Belgrade (2023)
 **Co-founder & Embedded Automation Engineer @ Haptic Synaptic (_Oct 2021 - Oct 2023_)**
 - I came up with an idea for a robotics project that would inspire girls to get interested in technology. I made a prototype, co-founded a start-up, and received initial funding to build an educational robotics kit.
 
-# 🏆 Awards
+### 🏆 Awards
 -first
 
 **Embedded Automation Engineer Intern @ Easy Aerial (_Aug 2022 - Sept 2022_)**
@@ -41,44 +41,10 @@ B.S. in Electrical and Computer Engineering | University of Belgrade (2023)
 
 
 
-<details>
-
-  <summary><strong style="font-size: 21px;"> 🎇 Projects</strong>
-    <strong style="font-size: 10px;">  </strong>
-    <p>&nbsp;</p>
-  </summary>
-
-  This is the content inside the collapsible section.
-  
-  You can add more text, links, or even images here.
-<p>&nbsp;</p>
-</details>
 
 
 
 
-
-<details>
-
-  <summary><strong style="font-size: 21px;"> 📖 Publications</strong>
-    <strong style="font-size: 10px;">  </strong>
-    <p>&nbsp;</p>
-  </summary>
-  
-- TMF: Control of the propagation direction of Bound States in the continuum (BICs) in liquid crystal waveguides <be>
-
-*Stolic, Irena; Artigas García, David; Baral, Marlin; Universidad Politécnica de Cataluña. Departamento de Teoría de Señales y Comunicaciones*
-
-<br>
-
-*2024-07-23* 
-
-<br>
- URI:
- - [http://hdl.handle.net/2117/423579](http://hdl.handle.net/2117/423579)
-
-<p>&nbsp;</p>
-</details>
 
 
 ## 💫 Research Interests
