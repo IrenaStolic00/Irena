@@ -48,6 +48,12 @@ Engineer @ dasad
 <details>
 
   <summary><strong style="font-size: 21px;"> 📖 Publications</strong>
+    <strong style="font-size: 10px;">  </strong>
+    <p>&nbsp;</p>
+  </summary>
+
+<p>&nbsp;</p>
+</details>
 
 - TMF: Control of the propagation direction of Bound States in the continuum (BICs) in liquid crystal waveguides <br>
 *Stolic, Irena; Artigas García, David; Baral, Marlin; Universidad Politécnica de Cataluña. Departamento de Teoría de Señales y Comunicaciones*
@@ -57,11 +63,7 @@ Engineer @ dasad
 
   </summary>
 
-  This is the content inside the collapsible section.
-  
-  You can add more text, links, or even images here.
-<p>&nbsp;</p>
-</details>
+
 
 
 ## 💫 Research Interests
