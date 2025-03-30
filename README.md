@@ -19,6 +19,7 @@ B.S. in Electrical and Computer Engineering | University of Belgrade (2023)
 
 **Pre-doctoral Researcher  @ Optics Institute "Daza de Valdés" (CSIC)  (_December 2024 - Present_)**
 **[founded by the Momentum program](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://momentum.csic.es/wp-content/uploads/2024/08/AGO_CATALOGO_OPORTUNIDADES_MOMENTUM_ESP_web.pdf)**
+
 <br> <br>
 📍I am currently doing my research secondment at the University of Malaga!<br>
 
@@ -80,7 +81,7 @@ _International Festival of Innovation, Knowledge and Creativity, WIPO_ <br>
 _Stolic, Irena; Artigas García, David; Baral, Marlin; Universidad Politécnica de Cataluña. Departamento de Teoría de Señales y Comunicaciones_
 <br> 
 _2024-07-23_ <br>
-URI:[http://hdl.handle.net/2117/423579](http://hdl.handle.net/2117/423579)
+URI:[https://upcommons.upc.edu/handle/2117/423579](https://upcommons.upc.edu/handle/2117/423579)
 <br>
 
 
