@@ -19,8 +19,8 @@ B.S. in Electrical and Computer Engineering | University of Belgrade (2023)
 
 **Pre-doctoral Researcher  @ Optics Institute "Daza de Valdés" (CSIC)  (_December 2024 - Present_)**
 **[founded by the Momentum program](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://momentum.csic.es/wp-content/uploads/2024/08/AGO_CATALOGO_OPORTUNIDADES_MOMENTUM_ESP_web.pdf)**
-<br>
-📍Currently I am doing my research secondment at the University of Malaga!<br>
+<br> <br>
+📍I am currently doing my research secondment at the University of Malaga!<br>
 
 - Optics Institute "Daza de Valdés" (CSIC)
 In December of 2024, I started my PhD research journey on the topic _"Sensores fotónicos integrados en chip potenciados mediante inteligencia artificial y metamateriales nanoestructurados"_. The first two months I received training in "Introduction to Nano-Structured Devices in Waveguides" and spent time learning about the fundamentals of Integrated Photonics.<br>
