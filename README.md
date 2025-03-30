@@ -26,7 +26,7 @@ B.S. in Electrical and Computer Engineering | University of Belgrade (2023)
 In December of 2024, I started my PhD research journey on the topic _"Sensores fotónicos integrados en chip potenciados mediante inteligencia artificial y metamateriales nanoestructurados"_. The first two months I received training in "Introduction to Nano-Structured Devices in Waveguides" and spent time learning about the fundamentals of Integrated Photonics.<br>
 
 - 📍 University of Malaga <br>
-In February of 2025, I started my two month secondmant at the University of Malaga at the Photonics & RF Research Lab where I am receiving theoretical training, learning how to use Fexen and Lumerical software for PIC design, as well as working in the lab and working with the optical setup for characterization of silicon photonic chips.<br> 
+In February of 2025, I started my two-month research secondment at the University of Malaga at the Photonics & RF Research Lab where I am receiving theoretical training, learning how to use Fexen and Lumerical software for PIC design, as well as working in the lab and working with the optical setup for characterization of silicon photonic chips.<br> 
   
 
 
