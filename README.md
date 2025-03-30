@@ -5,8 +5,6 @@
 Electrical Engineer by training and, scientist by nature. I love coding! 💻🚀
 
 
-Technical Skills :
-
 
 ## 🎓 Education 
 PhD in Physics | Complutense University of Madrid (2024 - present)
@@ -49,6 +47,13 @@ Engineer @ dasad
 ## 📖 Publications
 
 ## 💫 Interests
+
+## Technical Skills
+
+| Languages    | Matlab, Python             
+| Software    | Labview, Matlab, Arduino, Altium Designer                  
+| Environments | Office                  
+               
 
 ## 🌍Languages
 - Serbian (native)
