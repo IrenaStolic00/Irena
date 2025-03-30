@@ -14,7 +14,7 @@ Optics Institute "Daza de Valdés" | CSIC
 Malaga
 Momentum
   
-## Work Experience
+## 💻 Work Experience
 
 #- Optics Institute "Daza de Valdés" | CSIC 			
 
@@ -38,7 +38,6 @@ Engineer @ dasad
 
 ## Awards
 -first
-<img src="/assets/cvPhoto2.png" alt="Sticker Description" width="100" height="100">
 
 ## Publications
 
