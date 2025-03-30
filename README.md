@@ -1,9 +1,11 @@
 
-# Electrical Engineer
-Technical Skills :
 
-## About me 
-I love coding! 💻🚀
+
+# About me 
+Electrical Engineer by training and, scientist by nature. I love coding! 💻🚀
+
+
+Technical Skills :
 
 
 ## 🎓 Education 
