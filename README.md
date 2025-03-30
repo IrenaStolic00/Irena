@@ -35,11 +35,14 @@ In February of 2025, I started my two-month research secondment at the Universit
 
 
 **Master's student intern @ ICFO (_Feb 2024 - Jul 2024_)** <br>
-I worked on my Master’s thesis project with the title “Control of the propagation direction of Bound States in the continuum (BICs) in liquid crystal waveguides”.
+I worked on my Master’s thesis project with the title _“Control of the propagation direction of Bound States in the continuum (BICs) in liquid crystal waveguides”_. <br>
+
+_This was my first opportunity to work on a big research project in the field of Photonics. I enjoyed learning about optical waveguides, sensors and getting to know the optical setup I was working on, which inspired my next career steps._
 
 **Co-founder & Embedded Automation Engineer @ Haptic Synaptic (_Oct 2021 - Oct 2023_)** <br>
 I came up with an idea for a robotics project called "Robot that makes friendship bracelets" that would inspire girls to get interested in technology (2018). I made a prototype, co-founded a start-up (2021), and received initial funding to build an educational robotics kit.
 
+_This was my passion project for five and a half years. I learned so much about engineering, business and team work. It gave me so many opportunities to travel, collaborate with professionals and put smiles on kids' faces. My personal growth on this journey is something priceless that I will always carry with me._
 
 ![Image1](/assets/collage4.jpg)
 
