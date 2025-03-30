@@ -15,8 +15,8 @@ B.S. in Electrical and Computer Engineering | University of Belgrade (2023)
 
 ## 👩🏻‍🔬 My PhD journey
 
-**Pre-doctoral Researcher  @ Optics Institute "Daza de Valdés" | CSIC  (_December 2024 - Present_)**
-- Optics Institute "Daza de Valdés" | CSIC
+**Pre-doctoral Researcher  @ Optics Institute "Daza de Valdés" (CSIC)  (_December 2024 - Present_)**
+- Optics Institute "Daza de Valdés" (CSIC)
 In December of 2024, I started my PhD research journey in. The first two months I spent at Optics Institute "Daza de Valdés" | CSIC where I received training in "Introduction to Nano-Structured Devices in Waveguides" and spent time learning about the fundamentals of Integrated Photonics.
 - Malaga
 In February of 2025, I started my two month secondmant at the 
@@ -36,7 +36,11 @@ I came up with an idea for a robotics project "Robot that makes friendship brace
 ![Image1](/assets/collage2.jpg)
 
 ### 🏆 Awards
--first
+-Innovation patent granted (2018 – 2024)  <br>
+_The Intellectual Property Office of the Republic of Serbia_
+- Gold medal on Tesla Fest 2019 <br>
+_International Festival of Innovation, Knowledge and Creativity, WIPO_
+
 
 **Embedded Automation Engineer Intern @ Easy Aerial (_Aug 2022 - Sept 2022_)**
 - I developed an automated system for testing new electronic components used in drones.
