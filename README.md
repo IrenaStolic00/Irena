@@ -79,7 +79,7 @@ _International Festival of Innovation, Knowledge and Creativity, WIPO_ <br>
 _Stolic, Irena; Artigas García, David; Baral, Marlin; Universidad Politécnica de Cataluña. Departamento de Teoría de Señales y Comunicaciones_
 <br> 
 _2024-07-23_ <br>
-- URI:[http://hdl.handle.net/2117/423579](http://hdl.handle.net/2117/423579)
+URI:[http://hdl.handle.net/2117/423579](http://hdl.handle.net/2117/423579)
 <br>
 
 
