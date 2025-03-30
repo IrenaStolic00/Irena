@@ -20,7 +20,6 @@ B.S. in Electrical and Computer Engineering | University of Belgrade (2023)
 **Pre-doctoral Researcher  @ Optics Institute "Daza de Valdés" (CSIC)  (_December 2024 - Present_)**
 **[founded by the Momentum program](https://momentum.csic.es/wp-content/uploads/2024/08/AGO_CATALOGO_OPORTUNIDADES_MOMENTUM_ESP_web.pdf)**
 
-<br>
 
 📍I am currently doing my research secondment at the University of Malaga!<br>
 
