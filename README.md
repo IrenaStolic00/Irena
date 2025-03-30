@@ -23,9 +23,17 @@ B.S. in Electrical and Computer Engineering | University of Belgrade (2023)
 - Malaga
 - Momentum
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**Master's student intern @ ICFO (_February 2024 - Jul 2024_)**
+- I worked on my Master’s thesis project “Control of the propagation direction of Bound States in the continuum (BICs) in liquid crystal waveguides”.
+
+**Co-founder & Embedded Automation Engineer @ Haptic Synaptic (_October 2021 - October 2023_)**
+- I came up with an idea for a robotics project that would inspire girls to get interested in technology. I made a prototype, co-founded a start-up, and received initial funding to build an educational robotics kit.
+
+**Embedded Automation Engineer Intern @ Easy Aerial (_August 2022 - September 2022_)**
+- I developed an automated system for testing new electronic components used in drones.
+
+**Hardware Design Intern @ MikroElektronika (_July 2021 - September 2021_)**
+- I challenged my knowledge and skills by working on projects in Altium Designer and C. 
 
 
 
