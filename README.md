@@ -49,6 +49,7 @@ _The Intellectual Property Office of the Republic of Serbia_ <br>
 
 - Gold medal at Tesla Fest 2019 <br>
 _International Festival of Innovation, Knowledge and Creativity, WIPO_ <br>
+
 - WSA European Young Innovators Award 2021 <br>
   _World Summit Award (Graz, Austria)_ <br>
 
