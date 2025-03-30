@@ -15,13 +15,14 @@ B.S. in Electrical and Computer Engineering | University of Belgrade (2023)
 
 ## 👩🏻‍🔬 My PhD journey
 
-
-
-## 💻Work Experience
 **Pre-doctoral Researcher  @ Optics Institute "Daza de Valdés" | CSIC  (_December 2024 - Present_)**
 - Optics Institute "Daza de Valdés" | CSIC 
 - Malaga
 - Momentum
+
+
+## 💻Work Experience
+
 
 **Master's student intern @ ICFO (_Feb 2024 - Jul 2024_)**
 - I worked on my Master’s thesis project “Control of the propagation direction of Bound States in the continuum (BICs) in liquid crystal waveguides”.
