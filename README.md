@@ -29,6 +29,9 @@ B.S. in Electrical and Computer Engineering | University of Belgrade (2023)
 **Co-founder & Embedded Automation Engineer @ Haptic Synaptic (_Oct 2021 - Oct 2023_)**
 - I came up with an idea for a robotics project that would inspire girls to get interested in technology. I made a prototype, co-founded a start-up, and received initial funding to build an educational robotics kit.
 
+# 🏆 Awards
+-first
+
 **Embedded Automation Engineer Intern @ Easy Aerial (_Aug 2022 - Sept 2022_)**
 - I developed an automated system for testing new electronic components used in drones.
 
@@ -52,8 +55,7 @@ B.S. in Electrical and Computer Engineering | University of Belgrade (2023)
 </details>
 
 
-## 🏆 Awards
--first
+
 
 
 <details>
