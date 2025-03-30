@@ -52,10 +52,15 @@ Engineer @ dasad
     <p>&nbsp;</p>
   </summary>
   
-- TMF: Control of the propagation direction of Bound States in the continuum (BICs) in liquid crystal waveguides <br>
+- TMF: Control of the propagation direction of Bound States in the continuum (BICs) in liquid crystal waveguides <be>
+
 *Stolic, Irena; Artigas García, David; Baral, Marlin; Universidad Politécnica de Cataluña. Departamento de Teoría de Señales y Comunicaciones*
+
 <br>
-*2024-07-23* <br>
+
+*2024-07-23* 
+
+<br>
   URI: [http://hdl.handle.net/2117/423579](URIhttp://hdl.handle.net/2117/423579)
 
 <p>&nbsp;</p>
@@ -67,7 +72,7 @@ Engineer @ dasad
 ## Technical Skills
 
 | Languages    | Matlab, Python             
-| Software    | Labview, Matlab, Arduino, Altium Designer                  
+| Software    | Lumerical, FEXEN, Labview, Matlab, Arduino, Altium Designer                  
 | Environments | Office                  
                
 
