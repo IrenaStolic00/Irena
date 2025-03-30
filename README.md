@@ -2,6 +2,10 @@
 # Electrical Engineer
 Technical Skills :
 
+## About me 
+I love coding! 💻🚀
+
+
 ## 🎓 Education 
 PhD in Physics | Complutense University of Madrid (2024 - present)
 <br>
@@ -56,7 +60,7 @@ Engineer @ dasad
 Horse riding, chess
 
 ## Contact
-I love coding! 💻🚀
-
+✉ email: irena.stolic@csic.es
+🔗 LinkedIn: [Irena Stolic](https://www.linkedin.com/in/irena-stolic-248010180/)
 
 
