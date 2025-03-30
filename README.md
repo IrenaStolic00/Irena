@@ -8,6 +8,8 @@ PhD in Physics | Complutense University of Madrid (2024 - present)
 M.S. in Photonics	| Polytechnic University of Catalonia  (2024)	 			       
 B.S. in Electrical and Computer Engineering | University of Belgrade (2023)
 
+
+## My PhD journey
   
 ## Work Experience
 
@@ -31,8 +33,10 @@ Engineer @ dasad
 <p>&nbsp;</p>
 </details>
 
-## Projects 2
+## Awards
 -first
 <img src="/assets/cvPhoto2.png" alt="Sticker Description" width="100" height="100">
+
+## Interests
 
 
