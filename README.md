@@ -46,11 +46,12 @@ I came up with an idea for a robotics project "Robot that makes friendship brace
 ### 🏆 Awards
 
 - Innovation patent granted (2018 – 2024)  <br>
-_The Intellectual Property Office of the Republic of Serbia_
+_The Intellectual Property Office of the Republic of Serbia_ <br>
+
 - Gold medal on Tesla Fest 2019 <br>
-_International Festival of Innovation, Knowledge and Creativity, WIPO_
+_International Festival of Innovation, Knowledge and Creativity, WIPO_ <br>
 - WSA European Young Innovators Award 2021 <br>
-  _World Summit Award (Graz, Austria)_
+  _World Summit Award (Graz, Austria)_ <br>
 
 ### 🎉 Exhibitions
   - Maker Faire Rome 2023
