@@ -45,7 +45,12 @@ Engineer @ dasad
 ## 💫 Interests
 
 ## 🌍Languages
-
+Serbian (native)
+- English (C1) | IELTS
+- Spanish (B1) |
+- German (B1) | onSET-Zertifikat
+- Hungarian (A2) |
+  
 ## Hobbies
 
 Horse riding, chess
