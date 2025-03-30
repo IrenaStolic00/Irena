@@ -14,12 +14,8 @@ PhD in Physics | Complutense University of Madrid (2024 - present)
 M.S. in Photonics	| Polytechnic University of Catalonia  (2024)	 			       
 B.S. in Electrical and Computer Engineering | University of Belgrade (2023)
 
-<details>
+## 👩🏻‍🔬 My PhD journey </strong>
 
-  <summary><strong style="font-size: 21px;"> 🎇 👩🏻‍🔬 My PhD journey </strong>
-    <strong style="font-size: 10px;">  </strong>
-    <p>&nbsp;</p>
-  </summary>
 
 **Pre-doctoral Researcher  @ Optics Institute "Daza de Valdés" (CSIC)  (_December 2024 - Present_)**
 **[founded by the Momentum program](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://momentum.csic.es/wp-content/uploads/2024/08/AGO_CATALOGO_OPORTUNIDADES_MOMENTUM_ESP_web.pdf)**
@@ -31,9 +27,6 @@ In December of 2024, I started my PhD research journey on the topic _"Sensores f
 
 - 📍 University of Malaga <br>
 In February of 2025, I started my two-month research secondment at the University of Malaga at the Photonics & RF Research Lab where I am receiving theoretical training, learning how to use Fexen and Lumerical software for PIC design, as well as working in the lab and working with the optical setup for characterization of silicon photonic chips.<br> 
-<p>&nbsp;</p>
-</details>
-
 
 
 
