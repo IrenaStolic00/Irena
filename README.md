@@ -2,7 +2,7 @@
 # Electrical Engineer
 Technical Skills :
 
-## 🎓Education 
+## 🎓 Education 
 PhD in Physics | Complutense University of Madrid (2024 - present)
 <br>
 M.S. in Photonics	| Polytechnic University of Catalonia  (2024)	 			       
@@ -36,7 +36,7 @@ Engineer @ dasad
 <p>&nbsp;</p>
 </details>
 
-## Awards
+##🏆 Awards
 -first
 
 ## Publications
@@ -44,6 +44,10 @@ Engineer @ dasad
 ## Interests
 
 ## Languages
+
+## Hobbies
+
+Horse riding, chess
 
 ## Contact
 I love coding! 💻🚀
