@@ -36,14 +36,16 @@ Engineer @ dasad
 <p>&nbsp;</p>
 </details>
 
-##🏆 Awards
+## 🎇 Projects
+
+## 🏆 Awards
 -first
 
-## Publications
+## 📖 Publications
 
-## Interests
+## 💫 Interests
 
-## Languages
+## 🌍Languages
 
 ## Hobbies
 
