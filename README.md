@@ -36,12 +36,25 @@ I came up with an idea for a robotics project "Robot that makes friendship brace
 ![Image1](/assets/collage2.jpg)
 
 ### 🏆 Awards
--Innovation patent granted (2018 – 2024)  <br>
+- Innovation patent granted (2018 – 2024)  <br>
 _The Intellectual Property Office of the Republic of Serbia_
 - Gold medal on Tesla Fest 2019 <br>
 _International Festival of Innovation, Knowledge and Creativity, WIPO_
 - WSA European Young Innovators Award 2021 <br>
   _World Summit Award (Graz, Austria)_
+
+### 🎉 Exhibitions
+  - Maker Faire Rome 2023
+  - Virtually Maker Faire 2020 
+  - Maker Faire Vienna 2019
+
+### 💫 Grants
+  - The Mini Grants program 2021 <br>
+    _Serbian Innovation Fund (as GirlBot)_
+  - Part of The Startech program 2021 <br>
+  _The Government of the Republic of Serbia_
+  - MTS start-up grant & Google accelerator program 2021 <br>
+  _Startit & Telekom Serbia_
 
 
 **Embedded Automation Engineer Intern @ Easy Aerial (_Aug 2022 - Sept 2022_)**
