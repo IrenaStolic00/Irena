@@ -80,20 +80,22 @@ _International Festival of Innovation, Knowledge and Creativity, WIPO_ <br>
 - I challenged my knowledge and skills by working on projects in Altium Designer and C. 
 
 
-<details>
-  <summary><strong>📖 Publications</strong></summary>
+## 📖 Publications <br>
+  
+- TMF: Control of the propagation direction of Bound States in the continuum (BICs) in liquid crystal waveguides
 
-  - **TMF: Control of the propagation direction of Bound States in the continuum (BICs) in liquid crystal waveguides**
+<br>
 
-  <br>
+_Stolic, Irena; Artigas García, David; Baral, Marlin; Universidad Politécnica de Cataluña. Departamento de Teoría de Señales y Comunicaciones_ 
 
-  _Stolic, Irena; Artigas García, David; Baral, Marlin; Universidad Politécnica de Cataluña. Departamento de Teoría de Señales y Comunicaciones_  
+<br>
 
-  _2024-07-23_  
+_2024-07-23_
 
-  [🔗 URI: http://hdl.handle.net/2117/423579](http://hdl.handle.net/2117/423579)
+<br>
 
-</details>
+ URI:[http://hdl.handle.net/2117/423579](http://hdl.handle.net/2117/423579)
+
 
 
 
