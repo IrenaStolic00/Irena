@@ -54,6 +54,14 @@ Engineer @ dasad
 - Spanish (B1) |
 - German (B1) | [onSET-Zertifikat](https://drive.google.com/file/d/1KtxoslggTkv_7oPD7mA_VbGN5T44iTmi/view)
 - Hungarian (A2) |
+
+| Language    | Proficiency Level   | Certification |
+|-------------|---------------------|--------------|
+| Serbian     | Native              | -            |
+| English     | C1                  | IELTS        |
+| Spanish     | B1                  | -            |
+| German      | B1                  | onSET-Zertifikat |
+| Hungarian   | A2                  | -            |
   
 ## Hobbies
 
