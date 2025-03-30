@@ -40,7 +40,7 @@ I worked on my Master’s thesis project “Control of the propagation direction
 I came up with an idea for a robotics project "Robot that makes friendship bracelets" that would inspire girls to get interested in technology (2018). I made a prototype, co-founded a start-up (2021), and received initial funding to build an educational robotics kit.
 
 
-![Image1](/assets/collage2.jpg)
+![Image1](/assets/collage3 (1).jpg)
 
 ### 🏆 Awards
 
